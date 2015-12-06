@@ -1,8 +1,8 @@
 {
-  "name": "Favicon2SleipnirSearch",
+  "name": "Media Art",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "FaviconをSleipnirの検索結果に挿入する拡張。",
+  "description": "media art",
   "content_scripts": [
     {
       "matches": ["http://*/*", "https://*/*"],
